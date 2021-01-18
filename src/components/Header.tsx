@@ -7,7 +7,7 @@ export const Header = () => {
               <a className="navbar-brand text-warning font-weight-bold" href='#'>
                   Newbie
               </a>
-              <button className="navbar-toggler" data-target="#navbar" data-toggle="collapse" type="button">
+              <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
                   <span className="navbar-toggler-icon"></span>
               </button>
               </nav>       
