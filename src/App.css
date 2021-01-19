@@ -18,3 +18,33 @@
   font-size: 82px;
   font-weight: bold;
 }
+/* /////////////////////services//////////////// */
+.service{
+  padding: 100px 0 60px;
+  height: 700px;
+}
+.service h2{
+  font-size: 50px;
+  font-weight: 600;
+  color: #4d4b4b;
+}
+.service p{
+  color: #4d4b4b;
+}
+.imgSet{
+  margin-top: 60px!important;
+}
+.imgSet{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+.imgSet .fa{
+  margin-top:20px;
+  color: aliceblue;
+}
+.serviceTag p{
+  padding-top:10px;
+  color: #4d4b4b;
+}
