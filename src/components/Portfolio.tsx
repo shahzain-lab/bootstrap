@@ -17,7 +17,7 @@ export const Portfolio =()=> {
                  <div className="card">
                      <img src={portfolio1} alt="" className="img-fluid card-img" />
                      <div className="card-body">
-                         <h2 className="card-title">Thread</h2>
+                         <h3 className="card-title">Thread</h3>
                          <p className="card-text">illustration</p>
                      </div>
                  </div>
@@ -26,7 +26,7 @@ export const Portfolio =()=> {
                  <div className="card">
                      <img src={portfolio2} alt="" className="img-fluid card-img" />
                      <div className="card-body">
-                         <h2 className="card-title">Explore</h2>
+                         <h3 className="card-title">Explore</h3>
                          <p className="card-text">Graphic Design</p>
                      </div>
                  </div>
@@ -35,7 +35,7 @@ export const Portfolio =()=> {
                  <div className="card">
                      <img src={portfolio3} alt="" className="img-fluid card-img" />
                      <div className="card-body">
-                         <h2 className="card-title">Finish</h2>
+                         <h3 className="card-title">Finish</h3>
                          <p className="card-text">Identity</p>
                      </div>
                  </div>
@@ -46,7 +46,7 @@ export const Portfolio =()=> {
                  <div className="card">
                      <img src={portfolio6} alt="" className="img-fluid card-img" />
                      <div className="card-body">
-                         <h2 className="card-title">Brand</h2>
+                         <h3 className="card-title">Brand</h3>
                          <p className="card-text">Simplicity</p>
                      </div>
                  </div>
@@ -55,7 +55,7 @@ export const Portfolio =()=> {
                  <div className="card">
                      <img src={portfolio5} alt="" className="img-fluid card-img" />
                      <div className="card-body">
-                         <h2 className="card-title">Develop</h2>
+                         <h3 className="card-title">Develop</h3>
                          <p className="card-text">Web Developing</p>
                      </div>
                  </div>
@@ -64,7 +64,7 @@ export const Portfolio =()=> {
                  <div className="card">
                      <img src={portfolio4} alt="" className="img-fluid card-img" />
                      <div className="card-body">
-                         <h2 className="card-title">Photography</h2>
+                         <h3 className="card-title">Photography</h3>
                          <p className="card-text">Photographer and Designer</p>
                      </div>
                  </div>
