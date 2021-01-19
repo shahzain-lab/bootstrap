@@ -44,6 +44,11 @@
   margin-top:20px;
   color: aliceblue;
 }
+.serviceTag h3{
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 10px;
+}
 .serviceTag p{
   padding-top:10px;
   color: #4d4b4b;
