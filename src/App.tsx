@@ -5,6 +5,7 @@ import './App.css'
 import { Services } from './components/Services';
 import { Portfolio } from './components/Portfolio';
 import { Team } from './components/Team';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
      <Services />
      <Portfolio />
      <Team />
+     <Footer />
     </div>
   );
 }
