@@ -28,7 +28,11 @@ export const Header = () => {
        </Navbar> 
        </div>
       </nav>
-
+         <div className="container text-center head">
+           <h2>Welcome to our studio</h2>
+           <h1>Pick whats you want</h1>
+           <button className="btn btn-warning text-white btn-lg font-weight-bold">Subscribe</button>
+         </div>
         </div>
     )
 }
