@@ -3,11 +3,11 @@ import { Navbar,Nav, NavDropdown } from 'react-bootstrap';
 
 export const Header = () => {
     return (
-        <div>
+        <div className="header">
             <nav className="bg-dark">
             <div className="container">
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-  <Navbar.Brand href="#home">Newbie</Navbar.Brand>
+  <Navbar.Brand href="#home"className="text-warning">Newbie</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="ml-auto text-center">
@@ -24,10 +24,11 @@ export const Header = () => {
       <Nav.Link href="#features">CONTACT</Nav.Link>
     </Nav>
    
-  </Navbar.Collapse>
-</Navbar> 
-</div>
-</nav>
+         </Navbar.Collapse>
+       </Navbar> 
+       </div>
+      </nav>
+
         </div>
     )
 }
