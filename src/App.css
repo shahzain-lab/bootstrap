@@ -97,16 +97,33 @@ body{
 
 
 /* ////////////footer */
-.footer{
-  height: 320px;
+
+.footersection{
   width: 100%;
-  background-image: url(./img/portfolio3.jpg);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding: 1rem;
+  height: auto;
+  padding: 70px 0 20px 0;
+  background: #00abff;
+  position: relative;
 }
-.footer3{
-  padding:2rem 0 ;
+.footersection p{
+    color: #ffff;
 }
+.footersection li a{
+    font-size: .9rem;
+    line-height: 1.6;
+    font-weight: 400;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.footersection h3{
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-shadow: 0 2px 5px (0,0,0,0.4);
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
 
 /* //////////////////////////media Queries */
