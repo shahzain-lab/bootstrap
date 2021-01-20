@@ -96,7 +96,19 @@ body{
 
 /* //////// //////Team */
 
-
+.team{
+  width: 100%;
+  height: 700px;
+  padding:100px 0px 60px;
+}
+.team h2{
+  color: #4d4b4b;
+  font-size: 50px;
+  font-weight: bold;
+}
+.teamrow{
+  margin-top: 70px !important;
+}
 /* ////////////footer */
 
 .footersection{
