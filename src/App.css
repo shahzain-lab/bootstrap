@@ -162,3 +162,24 @@ body{
 }
 
 /* //////////////////////////media Queries */
+
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 768px) and (max-width: 990px){
+
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+  
+}
+
+@media(min-width: 460px) and (max-width: 574px){
+
+}
+
+@media(max-width: 459px){
+  
+}
+/* ///Completed///// */
