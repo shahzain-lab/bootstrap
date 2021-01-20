@@ -131,7 +131,6 @@ body{
   height: auto;
   padding: 70px 0 20px 0;
   background-image: url(./img/footer.jpg);
-  clip-path: polygon(29% 15%, 74% 0, 74% 12%, 100% 0, 100% 99%, 0 100%, 5% 49%, 0 0);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   position: relative;
@@ -187,11 +186,21 @@ body{
 }
 
 @media(min-width: 575px) and (max-width: 767px){
-  
+  .portfolio{
+    height: 3100px;
+  }
 }
 
 @media(min-width: 480px) and (max-width: 574px){
-
+  .service{
+    height: 1250px;
+  }
+  .portfolio{
+    height: 2650px;
+  }
+  .team{
+    height: 1200px;
+  }
 }
 
 @media(max-width: 479px){
@@ -207,6 +216,15 @@ body{
   }
   .head h1{
     font-size: 4.5rem;
+  }
+  .service{
+    height: 1250px;
+  }
+  .portfolio{
+    height: 2300px;
+  }
+  .team{
+    height: 1200px;
   }
 }
 /* ///Completed///// */

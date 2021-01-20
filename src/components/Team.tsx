@@ -12,7 +12,7 @@ export const Team =()=> {
                 <div className="row teamrow">
                     <div className="col-lg-4 col-md-4 col-sm-4 col-10 m-auto d-block">
                         <figure className="figure">
-                            <img src={team1} alt="" className="figure-img img-fluid rounded-circle" height="200px"width="200px"/>
+                            <img src={team1} alt="" className="figure-img img-fluid rounded-circle" height="150px"width="200px"/>
                             <figcaption>
                                 <h4>Kay Garland</h4>
                                 <p className="figure-caption">Lead Designer</p>

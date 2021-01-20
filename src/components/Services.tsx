@@ -6,7 +6,7 @@ export const Services =()=> {
             <h2>Services</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <div className="row">
-            <div className="container serviceTag text-center col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
+            <div className="container serviceTag text-center  col-lg-4 col-md-4 col-sm-4 col-10 d-block m-auto">
                  <div className="imgSet bg-warning m-auto d-block">
                  
                      <i className="fa fa-shopping-cart fa-3x"></i>
