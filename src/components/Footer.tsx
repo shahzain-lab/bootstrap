@@ -16,10 +16,10 @@ export const Footer =()=> {
             </div>
             <div className="col-lg-4 col-md-6 col-12 footerdiv text-center text-uppercase">
               <h3>navigation links</h3>
-              <li><a href="#">Home</a></li>
-              <li><a href="#servicediv">services</a></li>
-              <li><a href="#footerid">about</a></li>
-              <li><a href="#pricingdiv">prices</a></li>
+              <li><a href="">Home</a></li>
+              <li><a href="">services</a></li>
+              <li><a href="">about</a></li>
+              <li><a href="">prices</a></li>
             </div>
             <div className="col-lg-4 col-md-6 col-12 footerdiv text-uppercase">
               <h3>news letter</h3>
